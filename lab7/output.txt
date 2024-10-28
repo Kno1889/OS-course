@@ -1,0 +1,36 @@
+Script started on 2024-04-03 12:34:29+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="79" LINES="23"]
+[?2004h]0;hassak9@khaledmbp2ubuntu: ~/Dev/lab7[01;32mhassak9@khaledmbp2ubuntu[00m:[01;34m~/Dev/lab7[00m$ ./p6 file1.txtgcc PL6.c -o p6[1P./p6 file1.txtgcc PL6.c -o p6[1P./p6 file1.txtgcc PL6.c -o p6[K6 -w
+[?2004l[?2004h]0;hassak9@khaledmbp2ubuntu: ~/Dev/lab7[01;32mhassak9@khaledmbp2ubuntu[00m:[01;34m~/Dev/lab7[00m$ gcc PL6.c -o p6 -w[4P./p6 file1.txt
+[?2004lInode number: 1462864
+File size: 14 bytes
+Blocks: 8
+File permissions: -rw-rw-r--
+User ID: 1000
+Time of last access: Sat Mar 30 03:07:17 2024
+Time of last data modification: Sat Mar 30 03:07:17 2024
+Last status change time: Sat Mar 30 03:07:17 2024
+[?2004h]0;hassak9@khaledmbp2ubuntu: ~/Dev/lab7[01;32mhassak9@khaledmbp2ubuntu[00m:[01;34m~/Dev/lab7[00m$ chmod u_[K+rw file1.txt
+[?2004l[?2004h]0;hassak9@khaledmbp2ubuntu: ~/Dev/lab7[01;32mhassak9@khaledmbp2ubuntu[00m:[01;34m~/Dev/lab7[00m$ chmod u+rw file1.txt[C[C[C[C[C[1P[1@g[C
+[?2004l[?2004h]0;hassak9@khaledmbp2ubuntu: ~/Dev/lab7[01;32mhassak9@khaledmbp2ubuntu[00m:[01;34m~/Dev/lab7[00m$ chmod g+rw file1.txt[1P[1@o[C[C[C[1P file1.txt
+[?2004l[?2004h]0;hassak9@khaledmbp2ubuntu: ~/Dev/lab7[01;32mhassak9@khaledmbp2ubuntu[00m:[01;34m~/Dev/lab7[00m$ chmod o+r file1.txt[1@g+rw[C[C[C[C[C[C[C[C[C[Cu[C[C[C[C[C[C[C[C[C[C[C[C[C[6P./p6[C[C[C[C[C[C[C[C[C[C
+[?2004lInode number: 1462864
+File size: 14 bytes
+Blocks: 8
+File permissions: -rw-rw-r--
+User ID: 1000
+Time of last access: Sat Mar 30 03:07:17 2024
+Time of last data modification: Sat Mar 30 03:07:17 2024
+Last status change time: Wed Apr  3 12:35:31 2024
+[?2004h]0;hassak9@khaledmbp2ubuntu: ~/Dev/lab7[01;32mhassak9@khaledmbp2ubuntu[00m:[01;34m~/Dev/lab7[00m$ stat file1.txt
+[?2004l  File: file1.txt
+  Size: 14        	Blocks: 8          IO Block: 4096   regular file
+Device: fd00h/64768d	Inode: 1462864     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ hassak9)   Gid: ( 1000/ hassak9)
+Access: 2024-03-30 03:07:17.518173582 +0000
+Modify: 2024-03-30 03:07:17.814175473 +0000
+Change: 2024-04-03 12:35:31.559821583 +0000
+ Birth: 2024-03-30 03:07:10.414128662 +0000
+[?2004h]0;hassak9@khaledmbp2ubuntu: ~/Dev/lab7[01;32mhassak9@khaledmbp2ubuntu[00m:[01;34m~/Dev/lab7[00m$ exirt[K[K[K[Kxit
+[?2004lexit
+
+Script done on 2024-04-03 12:36:05+00:00 [COMMAND_EXIT_CODE="0"]
